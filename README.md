@@ -1,6 +1,6 @@
 # ✨ Hi there, I'm Lucas! ✨
-- Presently, I am engaged in the study of programming using Python and Dart.
-- 🎃 Passionate about programming and new technologies.
+-  Presently, I am engaged in the study of programming using Python and Dart.
+-  Passionate about programming and new technologies.
 - 📚 I am graduating from Universidade Presbiteriana Mackenzie in Computer Science;
 
 ## Languages e Tools 💻
